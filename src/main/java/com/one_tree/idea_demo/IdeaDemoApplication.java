@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IdeaDemoApplication {
 
     public static void main(String[] args) {
+        //树哥好文推荐！
         SpringApplication.run(IdeaDemoApplication.class, args);
     }
 
